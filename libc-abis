@@ -11,7 +11,7 @@
 # are conditionally added this can only ever be done securely without much
 # risk is by adding at the end.
 #
-# The following lines have one of two formats:
+# The following lines have one of two formats:123
 #
 #	SYMBOL
 # With just a symbol on the line this is the name of a feature which
